@@ -1,3 +1,5 @@
 $ git clone git@github.com:GhitaB/archive.plone5buildout.git
 $ cd archive.plone5buildout
 $ virtualenv-2.7 zinstance
+  virtualenv-2.7: command not found
+$ virtualenv zinstance
