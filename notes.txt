@@ -30,3 +30,4 @@ $ ./bin/instance fg
 
 $ ./bin/buildout -N
 $ ./bin/instance fg
+  http://localhost:9999/ - working! :)
