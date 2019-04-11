@@ -10,4 +10,12 @@ $ ./bin/buildout
     zc.buildout version 2.11.4,
     setuptools version 39.1.0;
   restarting.
-???
+  ???
+
+  Solution:
+    https://github.com/buildout/buildout/issues/312#issuecomment-396597916 - Please add your reactions.
+    http://www.buildout.org/en/latest/reference.html
+      -N
+      Run in non-newest mode. This is equivalent to the command-line assignment newest=false.
+
+$ ./bin/buildout -N
