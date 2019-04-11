@@ -3,3 +3,5 @@ $ cd archive.plone5buildout
 $ virtualenv-2.7 zinstance
   virtualenv-2.7: command not found
 $ virtualenv zinstance
+$ cd zinstance
+$ bin/pip install zc.buildout
