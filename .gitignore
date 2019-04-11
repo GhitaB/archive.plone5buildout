@@ -1,6 +1,8 @@
+zinstance/.installed.cfg
 zinstance/bin/
 zinstance/eggs/
 zinstance/include/
 zinstance/lib/
 zinstance/local/
+zinstance/parts/
 zinstance/share/
