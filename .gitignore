@@ -1,1 +1,5 @@
-zinstance/
+zinstance/bin/
+zinstance/include/
+zinstance/lib/
+zinstance/local/
+zinstance/share/
