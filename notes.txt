@@ -25,3 +25,8 @@ $ ./bin/instance fg
   "HTTPServer". This may mean that your user does not have permission to bind
   to the port which the server is trying to use or the port may already be in
   use by another application. (Address already in use)
+
+  in buildout.cfg changed port to 9999
+
+$ ./bin/buildout -N
+$ ./bin/instance fg
