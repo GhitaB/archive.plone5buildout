@@ -4,4 +4,10 @@ $ virtualenv-2.7 zinstance
   virtualenv-2.7: command not found
 $ virtualenv zinstance
 $ cd zinstance
-$ bin/pip install zc.buildout
+$ ./bin/pip install zc.buildout
+$ ./bin/buildout
+  Upgraded:
+    zc.buildout version 2.11.4,
+    setuptools version 39.1.0;
+  restarting.
+???
