@@ -19,3 +19,9 @@ $ ./bin/buildout
       Run in non-newest mode. This is equivalent to the command-line assignment newest=false.
 
 $ ./bin/buildout -N
+$ ./bin/instance fg
+
+  ZConfig.ConfigurationError: There was a problem starting a server of type
+  "HTTPServer". This may mean that your user does not have permission to bind
+  to the port which the server is trying to use or the port may already be in
+  use by another application. (Address already in use)
